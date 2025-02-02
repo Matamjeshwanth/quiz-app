@@ -1,0 +1,464 @@
+{
+  "quiz": {
+    "id": 60,
+    "name": null,
+    "title": "Genetics and Evolution",
+    "description": "",
+    "difficulty_level": null,
+    "topic": "The Molecular Basis of Inheritance",
+    "time": "2024-07-15T00:00:00.000+05:30",
+    "is_published": true,
+    "created_at": "2024-07-15T17:42:08.623+05:30",
+    "updated_at": "2024-09-23T18:43:29.210+05:30",
+    "duration": 15,
+    "end_time": "2024-07-16T00:00:00.000+05:30",
+    "negative_marks": "1.0",
+    "correct_answer_marks": "4.0",
+    "shuffle": true,
+    "show_answers": true,
+    "lock_solutions": false,
+    "is_form": false,
+    "show_mastery_option": false,
+    "reading_material": null,
+    "quiz_type": null,
+    "is_custom": false,
+    "banner_id": null,
+    "exam_id": null,
+    "show_unanswered": false,
+    "ends_at": "2025-01-18",
+    "lives": null,
+    "live_count": "Free Test",
+    "coin_count": -1,
+    "questions_count": 10,
+    "daily_date": "January 17, 2025",
+    "max_mistake_count": 9,
+    "reading_materials": [],
+    "questions": [
+      {
+        "id": 3342,
+        "description": "If the base sequence in DNA is 5' AAAT 3' then the base sequence in mRNA is:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance",
+        "is_published": true,
+        "created_at": "2024-07-13T23:16:31.854+05:30",
+        "updated_at": "2025-01-16T23:31:52.806+05:30",
+        "detailed_solution": "To determine the mRNA sequence from the given DNA sequence, we follow the principles of transcription, where RNA is synthesized complementary to the DNA template strand. [Additional explanation truncated for brevity]. Final Answer: The base sequence in mRNA is: 5' AAAU 3'.",
+        "type": "",
+        "is_mandatory": false,
+        "show_in_feed": false,
+        "pyq_label": "",
+        "topic_id": 150,
+        "reading_material_id": 3120,
+        "fixed_at": "2025-01-16T00:00:00.000+05:30",
+        "fix_summary": "Explanation was wrong.",
+        "created_by": null,
+        "updated_by": "kanza@testline.in",
+        "quiz_level": null,
+        "question_from": "Q-bank",
+        "language": null,
+        "photo_url": null,
+        "photo_solution_url": null,
+        "is_saved": false,
+        "tag": "",
+        "options": [
+          {
+            "id": 13379,
+            "description": "5'UUUU3'",
+            "question_id": 3342,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.858+05:30",
+            "updated_at": "2024-07-13T23:16:31.858+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13380,
+            "description": "3'UUUU5'",
+            "question_id": 3342,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.861+05:30",
+            "updated_at": "2024-07-13T23:16:31.861+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13381,
+            "description": "5'AAAU3'",
+            "question_id": 3342,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:31.864+05:30",
+            "updated_at": "2024-07-13T23:16:31.864+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13382,
+            "description": "3'AAAU5'",
+            "question_id": 3342,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.866+05:30",
+            "updated_at": "2024-07-13T23:16:31.866+05:30",
+            "unanswered": false,
+            "photo_url": null
+          }
+        ],
+        "reading_material": {
+          "id": 3120,
+          "keywords": "[\"DNA\", \"mRNA\", \"Transcription\", \"Base sequence\", \"Nucleotides\"]",
+          "content": null,
+          "created_at": "2024-11-30T18:43:03.608+05:30",
+          "updated_at": "2024-11-30T18:43:03.608+05:30",
+          "content_sections": [
+            "<!DOCTYPE html><html><head><title>DNA and RNA Transcription</title></head><body><h1>DNA and RNA Transcription</h1><section><h2>Introduction to DNA and RNA</h2><p>DNA and RNA are molecules that carry genetic information. DNA is the primary storage location for this information, while RNA plays a crucial role in using that information to synthesize proteins.</p></section></body></html>"
+          ],
+          "practice_material": {
+            "content": [
+              "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>DNA and RNA Transcription</title></head><body><h1>DNA and RNA Transcription</h1><section><h2>Introduction to DNA and RNA</h2><p>DNA and RNA are molecules that carry genetic information. DNA is the primary storage location for this information, while RNA plays a crucial role in synthesizing proteins.</p></section></body></html>"
+            ],
+            "keywords": "[\"proteins\", \"DNA\", \"RNA\", \"Adenine (A)\", \"Guanine (G)\", \"RNA sequence\", \"Uracil (U)\"]"
+          }
+        }
+      },
+      {
+        "id": 3315,
+        "description": "Avery, MacLeod and Mc Carty used the S (virulent) and R (avirulent) strains of Streptococcus pneumoniae. They isolated and purified protein, DNA, RNA from the bacteria and treated them with related enzymes. They concluded that:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance",
+        "is_published": true,
+        "created_at": "2024-07-13T23:16:31.369+05:30",
+        "updated_at": "2024-11-30T18:42:58.881+05:30",
+        "detailed_solution": "Explanation: In their experiment, only the enzyme that broke down DNA inactivated the transforming agent, demonstrating that DNA was responsible for transferring the genetic information. This experiment was pivotal in identifying DNA as the genetic material.",
+        "type": null,
+        "is_mandatory": false,
+        "show_in_feed": false,
+        "pyq_label": null,
+        "topic_id": 150,
+        "reading_material_id": 3093,
+        "fixed_at": null,
+        "fix_summary": null,
+        "created_by": null,
+        "updated_by": null,
+        "quiz_level": null,
+        "question_from": "Q-bank",
+        "language": null,
+        "photo_url": null,
+        "photo_solution_url": null,
+        "is_saved": false,
+        "tag": "",
+        "options": [
+          {
+            "id": 13271,
+            "description": "DNA was transforming agent",
+            "question_id": 3315,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:31.372+05:30",
+            "updated_at": "2024-07-13T23:16:31.372+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13272,
+            "description": "RNA was transforming agent",
+            "question_id": 3315,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.375+05:30",
+            "updated_at": "2024-07-13T23:16:31.375+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13273,
+            "description": "Protein was transforming agent",
+            "question_id": 3315,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.378+05:30",
+            "updated_at": "2024-07-13T23:16:31.378+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13274,
+            "description": "All are correct",
+            "question_id": 3315,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.381+05:30",
+            "updated_at": "2024-07-13T23:16:31.381+05:30",
+            "unanswered": false,
+            "photo_url": null
+          }
+        ],
+        "reading_material": {
+          "id": 3093,
+          "keywords": "[\"DNA\", \"Streptococcus pneumoniae\", \"transforming principle\", \"Avery, MacLeod and McCarty\", \"Hershey-Chase experiment\"]",
+          "content": null,
+          "created_at": "2024-11-30T18:42:58.805+05:30",
+          "updated_at": "2024-11-30T18:42:58.805+05:30",
+          "content_sections": [
+            "<!DOCTYPE html><html><head><title>The Avery-MacLeod-McCarty Experiment</title></head><body><h1>The Discovery of DNA as the Genetic Material</h1><p>Scientists were trying to figure out what molecule carries genetic information. Initially, proteins were suspected, but experiments showed that DNA was the transforming agent.</p></body></html>"
+          ],
+          "practice_material": {
+            "content": [
+              "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>The Avery-MacLeod-McCarty Experiment</title></head><body><h1>The Discovery of DNA as the Genetic Material</h1><p>Transformation experiments demonstrated that DNA, not protein or RNA, was responsible for transferring genetic information.</p></body></html>"
+            ],
+            "keywords": "[\"transformation\", \"DNA\", \"Avery, MacLeod and McCarty\"]"
+          }
+        }
+      },
+      {
+        "id": 3381,
+        "description": "Identify the characteristic which is not applicable to the genetic code:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance",
+        "is_published": true,
+        "created_at": "2024-07-13T23:16:32.539+05:30",
+        "updated_at": "2024-11-30T18:43:10.542+05:30",
+        "detailed_solution": "The genetic code is specific, universal, non-overlapping, and degenerate. Non-polarity, however, is not a property of the genetic code. It refers to the chemical nature of amino acids, not the coding system.",
+        "type": null,
+        "is_mandatory": false,
+        "show_in_feed": false,
+        "pyq_label": null,
+        "topic_id": 150,
+        "reading_material_id": 3159,
+        "fixed_at": null,
+        "fix_summary": null,
+        "created_by": null,
+        "updated_by": null,
+        "quiz_level": null,
+        "question_from": "Q-bank",
+        "language": null,
+        "photo_url": null,
+        "photo_solution_url": null,
+        "is_saved": false,
+        "tag": "",
+        "options": [
+          {
+            "id": 13535,
+            "description": "Non-Polar",
+            "question_id": 3381,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:32.542+05:30",
+            "updated_at": "2024-07-13T23:16:32.542+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13536,
+            "description": "Non-Overlapping",
+            "question_id": 3381,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.544+05:30",
+            "updated_at": "2024-07-13T23:16:32.544+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13537,
+            "description": "Commaless",
+            "question_id": 3381,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.546+05:30",
+            "updated_at": "2024-07-13T23:16:32.546+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13538,
+            "description": "Universal",
+            "question_id": 3381,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:32.549+05:30",
+            "updated_at": "2024-07-13T23:16:32.549+05:30",
+            "unanswered": false,
+            "photo_url": null
+          }
+        ],
+        "reading_material": {
+          "id": 3159,
+          "keywords": "[\"Genetic Code\", \"DNA\", \"RNA\", \"Transcription\", \"Translation\"]",
+          "content": null,
+          "created_at": "2024-11-30T18:43:10.465+05:30",
+          "updated_at": "2024-11-30T18:43:10.465+05:30",
+          "content_sections": [
+            "<!DOCTYPE html><html><head><title>Genetic Code Characteristics</title></head><body><h1>The Genetic Code</h1><h2>Introduction to the Genetic Code</h2><p>This chapter explains how our genes, made of DNA, are translated into proteins.</p></body></html>"
+          ],
+          "practice_material": {
+            "content": [
+              "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>Genetic Code Characteristics</title></head><body><h1>The Genetic Code</h1><h2>Introduction</h2><p>This chapter explains how the genetic code translates DNA's language (nucleotides) into the language of proteins (amino acids).</p></body></html>"
+            ],
+            "keywords": "[\"nucleotides\", \"amino acids\", \"polarity\"]"
+          }
+        }
+      },
+      {
+        "id": 3295,
+        "description": "Ribose is differentiable from deoxyribose in having:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance",
+        "is_published": true,
+        "created_at": "2024-07-13T23:16:31.055+05:30",
+        "updated_at": "2024-11-30T18:42:55.048+05:30",
+        "detailed_solution": "Ribose has a hydroxyl group (-OH) attached to its 2nd carbon atom, whereas deoxyribose lacks this group (has -H instead). This difference affects the stability and structure of RNA versus DNA.",
+        "type": null,
+        "is_mandatory": false,
+        "show_in_feed": false,
+        "pyq_label": null,
+        "topic_id": 150,
+        "reading_material_id": 3073,
+        "fixed_at": null,
+        "fix_summary": null,
+        "created_by": null,
+        "updated_by": null,
+        "quiz_level": null,
+        "question_from": "Q-bank",
+        "language": null,
+        "photo_url": null,
+        "photo_solution_url": null,
+        "is_saved": false,
+        "tag": "",
+        "options": [
+          {
+            "id": 13191,
+            "description": "Two extra oxygen",
+            "question_id": 3295,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.058+05:30",
+            "updated_at": "2024-07-13T23:16:31.058+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13192,
+            "description": "No oxygen",
+            "question_id": 3295,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.060+05:30",
+            "updated_at": "2024-07-13T23:16:31.060+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13193,
+            "description": "Hydroxyl group at 2nd carbon",
+            "question_id": 3295,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:31.062+05:30",
+            "updated_at": "2024-07-13T23:16:31.062+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13194,
+            "description": "One extra hydrogen",
+            "question_id": 3295,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.064+05:30",
+            "updated_at": "2024-07-13T23:16:31.064+05:30",
+            "unanswered": false,
+            "photo_url": null
+          }
+        ],
+        "reading_material": {
+          "id": 3073,
+          "keywords": "[\"Ribose\", \"Deoxyribose\", \"Hydroxyl group\", \"2nd carbon\", \"Nucleotides\"]",
+          "content": null,
+          "created_at": "2024-11-30T18:42:54.966+05:30",
+          "updated_at": "2024-11-30T18:42:54.966+05:30",
+          "content_sections": [
+            "<!DOCTYPE html><html><head><title>Ribose vs. Deoxyribose</title></head><body><h1>Ribose and Deoxyribose</h1><h2>Introduction</h2><p>Both are sugar molecules, but ribose has a hydroxyl group at the 2nd carbon which deoxyribose lacks.</p></body></html>"
+          ],
+          "practice_material": {
+            "content": [
+              "<!DOCTYPE html><html><head><title>Ribose vs. Deoxyribose</title></head><body><h1>Ribose vs. Deoxyribose</h1><p>The key difference is the hydroxyl group at the 2nd carbon in ribose.</p></body></html>"
+            ],
+            "keywords": "[\"2' carbon atom\", \"hydrogen atom\", \"hydroxyl group\", \"RNA\", \"DNA\"]"
+          }
+        }
+      },
+      {
+        "id": 3343,
+        "description": "The genes are responsible for growth and differentiation in an organism through regulation of:",
+        "difficulty_level": null,
+        "topic": "Molecular Basis Of Inheritance",
+        "is_published": true,
+        "created_at": "2024-07-13T23:16:31.875+05:30",
+        "updated_at": "2024-11-30T18:43:03.864+05:30",
+        "detailed_solution": "Genes code for proteins that regulate growth and differentiation. This occurs through the processes of transcription (copying DNA to mRNA) and translation (synthesizing proteins from mRNA).",
+        "type": null,
+        "is_mandatory": false,
+        "show_in_feed": false,
+        "pyq_label": null,
+        "topic_id": 150,
+        "reading_material_id": 3121,
+        "fixed_at": null,
+        "fix_summary": null,
+        "created_by": null,
+        "updated_by": null,
+        "quiz_level": null,
+        "question_from": "Q-bank",
+        "language": null,
+        "photo_url": null,
+        "photo_solution_url": null,
+        "is_saved": false,
+        "tag": "",
+        "options": [
+          {
+            "id": 13383,
+            "description": "Translocation",
+            "question_id": 3343,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.878+05:30",
+            "updated_at": "2024-07-13T23:16:31.878+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13384,
+            "description": "Transformation",
+            "question_id": 3343,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.880+05:30",
+            "updated_at": "2024-07-13T23:16:31.880+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13385,
+            "description": "Transduction and translation",
+            "question_id": 3343,
+            "is_correct": false,
+            "created_at": "2024-07-13T23:16:31.883+05:30",
+            "updated_at": "2024-07-13T23:16:31.883+05:30",
+            "unanswered": false,
+            "photo_url": null
+          },
+          {
+            "id": 13386,
+            "description": "Translation and transcription",
+            "question_id": 3343,
+            "is_correct": true,
+            "created_at": "2024-07-13T23:16:31.885+05:30",
+            "updated_at": "2024-07-13T23:16:31.885+05:30",
+            "unanswered": false,
+            "photo_url": null
+          }
+        ],
+        "reading_material": {
+          "id": 3121,
+          "keywords": "[\"genes\", \"growth\", \"differentiation\", \"transcription\", \"translation\"]",
+          "content": null,
+          "created_at": "2024-11-30T18:43:03.782+05:30",
+          "updated_at": "2024-11-30T18:43:03.782+05:30",
+          "content_sections": [
+            "<!DOCTYPE html><html><head><title>Genes and Protein Synthesis</title></head><body><h1>Genes and Protein Synthesis</h1><h2>What are Genes?</h2><p>Genes are segments of DNA that provide the instructions for making proteins.</p></body></html>"
+          ],
+          "practice_material": {
+            "content": [
+              "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>DNA and Genetic Information</title></head><body><h1>Chapter Overview: DNA and Genetic Information</h1><p>This chapter explains how DNA transmits genetic information and directs protein synthesis.</p></body></html>"
+            ],
+            "keywords": "[\"replication\", \"transcription\", \"translation\", \"genetic code\"]"
+          }
+        }
+      }
+    ]
+  }
+}
