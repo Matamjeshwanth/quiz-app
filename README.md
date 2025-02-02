@@ -1,7 +1,7 @@
 # quiz-app
 Below is a explanation of how the quiz app works:
 https://loom.com/share/folder/b0143930418d4490961e963cc07c07e6
-––––––––––––––––––––––––––––––––––––––
+
 Quiz App Overview:-
 
 1. Data Loading:  
@@ -19,7 +19,7 @@ Quiz App Overview:-
    - After the final question, a summary is displayed showing total points, correct answers, and the highest streak.
    - A “Next Level” button appears, which when clicked, shows the message “Next level's will be available soon.”
 
-––––––––––––––––––––––––––––––––––––––
+
 How to Run the Quiz App:-
 
 - API (Backend): 
